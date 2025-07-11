@@ -3,7 +3,7 @@
 > Developed as part of **Blockchain Bootcamp 2024**  
 
 > 
-A decentralized auction platform where users can create and participate in ETH-based auctions on the Ethereum Sepolia testnet. Built with Solidity smart contracts, Web3.js and React frontend.
+A decentralized auction platform where users can create and participate in ETH-based auctions on the Ethereum Sepolia testnet. Built with Solidity smart contracts, a React frontend, and Web3.js for Ethereum interaction.
 
 ---
 
