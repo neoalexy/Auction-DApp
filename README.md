@@ -1,4 +1,4 @@
-# 🪙 Auction DApp
+# Auction DApp
 
 > Developed as part of **Blockchain Bootcamp 2024**  
 
