@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-import "./Auction.sol"; // Pretpostavljamo da je Auction.sol u istom folderu
+import "./Auction.sol"; 
 
 contract AuctionFactory {
     Auction[] public auctions;
