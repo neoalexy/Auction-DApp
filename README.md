@@ -41,6 +41,6 @@ A decentralized auction platform where users can create and participate in ETH-b
 
 | MetaMask (Bid Confirmation) | Etherscan (0.2 ETH bid) |
 |-----------------------------|--------------------------|
-| ![](./screenshots/MetaMask.PNG) | ![](./screenshots/Etherscan.PNG) |
+| ![](./screenshots/MetaMask.PNG) | ![](./screenshots/EtherScan.PNG) |
 
 ---
