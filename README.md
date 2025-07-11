@@ -33,6 +33,6 @@ A decentralized auction platform where users can create and participate in ETH-b
 
 | Create Auction | Auction Details |
 |----------------|-----------------|
-| ![](./screenshots/createAuction.PNG) | ![](./screenshots/Auctiondetails.PNG) |
+| ![](./screenshots/CreateAuction.PNG) | ![](./screenshots/AuctionDetails.PNG) |
 
 ---
