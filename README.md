@@ -1,7 +1,7 @@
 # 🪙 Auction DApp
 
 > Developed as part of **Blockchain Bootcamp 2024**  
-> Tech stack: Solidity · React.js · Web3.js · MetaMask · Sepolia
+
 > 
 A decentralized auction platform where users can create and participate in ETH-based auctions on the Ethereum Sepolia testnet. Built with Solidity smart contracts, Web3.js and React frontend.
 
