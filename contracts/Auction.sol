@@ -26,7 +26,6 @@ contract Auction {
         require(msg.value > highestBid, "There already is a higher bid.");
 
         if (highestBid != 0) {
-            // Save the previous bid to be withdrawn later
             pendingReturns[highestBidder] += highestBid;
         }
 
@@ -40,7 +39,6 @@ contract Auction {
         if (amount > 0) {
             pendingReturns[msg.sender] = 0;
             if (!payable(msg.sender).send(amount)) {
-                // Revert if sending fails
                 pendingReturns[msg.sender] = amount;
                 return false;
             }
